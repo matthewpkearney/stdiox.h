@@ -1,1 +1,1 @@
-# stdiox
+The task at hand is to rewrite the standard input/output POSIX libarary, "stdio.h", in C language. After implementing fprintfx() and fscanfx(), which should perform just as fprintf() and fscanf() to write and read data buffers in "stdio.h", and it also acquires a function clean() which closes all open files from the current processes file descriptor table.
